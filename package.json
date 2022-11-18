@@ -1,8 +1,21 @@
 {
   "name": "link-list-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple link list",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenduclong-ict/link-list-js"
+  },
+  "keywords": [
+    "DataStruture",
+    "singly",
+    "linked",
+    "list",
+    "javascript",
+    "link list",
+    "link-list-js"
+  ],
   "author": "Nguyen Duc Long <nguyenduclong.ict@gmail.com>",
   "license": "ISC"
 }
